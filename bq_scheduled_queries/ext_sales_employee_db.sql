@@ -1,0 +1,1 @@
+SELECT * FROM `bigquerydatabase-270315.ext_sales.employee_db`

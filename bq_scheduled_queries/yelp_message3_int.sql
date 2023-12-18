@@ -1,0 +1,1 @@
+select * from ext_marketing.yelp_message3

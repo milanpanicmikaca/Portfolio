@@ -1,0 +1,20 @@
+	(select 0 as min_value, 60 as max_value, 1 as points, 'linear_feet' as category) union all
+	(select 61 as min_value, 120 as max_value, 2 as points, 'linear_feet' as category) union all
+	(select 121 as min_value, 200 as max_value, 3 as points, 'linear_feet' as category) union all
+	(select 200 as min_value, 100000 as max_value, 4 as points, 'linear_feet' as category) union all
+    (select 0 as min_value, 3 as max_value, 1 as points, 'sides' as category) union all
+	(select 4 as min_value, 6 as max_value, 2 as points, 'sides' as category) union all
+	(select 7 as min_value, 9 as max_value, 3 as points, 'sides' as category) union all
+	(select 10 as min_value, 100 as max_value, 4 as points, 'sides' as category) union all
+    (select 0 as min_value, 2 as max_value, 1 as points, 'styles' as category) union all
+	(select 3 as min_value, 4 as max_value, 2 as points, 'styles' as category) union all
+	(select 5 as min_value, 6 as max_value, 3 as points, 'styles' as category) union all
+	(select 7 as min_value, 100 as max_value, 4 as points, 'styles' as category) union all
+ 	(select 0 as min_value, 1 as max_value, 1 as points, 'revisions' as category) union all
+	(select 2 as min_value, 2 as max_value, 2 as points, 'revisions' as category) union all
+	(select 3 as min_value, 3 as max_value, 3 as points, 'revisions' as category) union all
+	(select 4 as min_value, 100 as max_value, 4 as points, 'revisions' as category) union all
+	(select 0 as min_value, 2500 as max_value, 1 as points, 'price' as category) union all
+	(select 2501 as min_value, 4000 as max_value, 2 as points, 'price' as category) union all
+	(select 4001 as min_value, 8000 as max_value, 3 as points, 'price' as category) union all
+	(select 8001 as min_value, 1000000 as max_value, 4 as points, 'price' as category)

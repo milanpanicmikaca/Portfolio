@@ -1,0 +1,1 @@
+select * from ext_marketing.dw_zip_sheet where zip is not null

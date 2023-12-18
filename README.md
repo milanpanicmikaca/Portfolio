@@ -1,1 +1,1 @@
-setting up a repository for the project
+personal projects repository

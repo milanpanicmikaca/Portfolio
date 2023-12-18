@@ -1,0 +1,1 @@
+select * from ext_marketing.yelp_spend2_sheet_v2 where date is not null
